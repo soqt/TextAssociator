@@ -11,5 +11,5 @@ non-generic HashTable, using separate chaining as collision resolution
 ##WordInfo.java
 >>WordInfo represents a relationship between a source String and a collection of Strings it should be  associated with
 
-##WordInfoSeparateChain.java 
+##WordInfoSeparateChain.java (Inner class of TextAssociator)
 >>Separate Chain as a resolution of data collision
